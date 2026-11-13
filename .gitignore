@@ -1,0 +1,13 @@
+# Physical-design run data and large implementation outputs
+runs/
+*.odb
+*.gds
+*.def
+*.lef
+*.spef
+*.sdf
+*.vcd
+*.log
+
+# Local tool and generated workspace data
+workspace/
