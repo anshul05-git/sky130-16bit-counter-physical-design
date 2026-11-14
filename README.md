@@ -39,7 +39,7 @@ flowchart TD
 
 ## Physical Design Stage Snapshots
 
-The following snapshots show the saved implementation checkpoints from the completed LibreLane Classic flow.
+The following snapshots show the saved implementation checkpoints from the completed LibreLane flow.
 
 ### 1. Floorplan and Power Distribution Network
 
