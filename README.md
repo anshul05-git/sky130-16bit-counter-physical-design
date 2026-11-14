@@ -37,6 +37,34 @@ flowchart TD
     L --> M[Final GDSII generation and KLayout inspection]
 ```
 
+## Physical Design Stage Snapshots
+
+The following snapshots show the saved implementation checkpoints from the completed LibreLane Classic flow.
+
+### 1. Floorplan and Power Distribution Network
+
+![Floorplan and power distribution network](images/floorplan.png)
+
+*Floorplan checkpoint after power distribution network generation.*
+
+### 2. Detailed Placement
+
+![Detailed placement](images/placement.png)
+
+*Standard-cell layout after detailed placement.*
+
+### 3. Clock-Tree Synthesis (CTS)
+
+![Post-CTS physical layout with Clock Tree Viewer](images/cts.png)
+
+*Post-CTS physical layout with the OpenROAD Clock Tree Viewer showing the clock distribution hierarchy.*
+
+### 4. Detailed Routing
+
+![Detailed routing](images/routing.png)
+
+*Post-detailed-routing layout showing the implemented interconnects.*
+
 ## Selected implementation results
 
 | Metric | Recorded result |
