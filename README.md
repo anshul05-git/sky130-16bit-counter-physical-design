@@ -14,7 +14,7 @@ A physical-design implementation and analysis project for a 16-bit up/down count
 | Controls | `rst`, `en`, `ctrl` |
 | Reset behavior | Asynchronous, active-high |
 | PDK / standard-cell library | SKY130A / `sky130_fd_sc_hd` |
-| Physical-design flow | LibreLane Classic with OpenROAD |
+| Physical-design flow | LibreLane with OpenROAD |
 | Selected synthesis strategy | `DELAY 4` after comparison of nine strategies |
 | Functional simulation | 12 PASS / 0 FAIL |
 | Physical-design execution | LibreLane + OpenROAD |
