@@ -17,7 +17,7 @@ A physical-design implementation and analysis project for a 16-bit up/down count
 | Physical-design flow | LibreLane Classic with OpenROAD |
 | Selected synthesis strategy | `DELAY 4` after comparison of nine strategies |
 | Functional simulation | 12 PASS / 0 FAIL |
-| Recorded Classic flow | 80/80 stages completed |
+| Physical-design execution | LibreLane Classic flow completed successfully |
 
 ## Implementation flow
 
